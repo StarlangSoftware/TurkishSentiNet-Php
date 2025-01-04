@@ -1,0 +1,22 @@
+{
+  "name": "olcaytaner/sentinet",
+  "version": "1.0.0",
+  "description": "Simple Sentiment library",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "olcaytaner\\Sentinet\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "y"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "11.4.0",
+    "olcaytaner/xmlparser": "1.0.1"
+  }
+}
