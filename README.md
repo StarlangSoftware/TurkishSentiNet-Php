@@ -36,6 +36,49 @@ Video Lectures
 
 [<img src="https://github.com/StarlangSoftware/TurkishSentiNet/blob/master/video1.jpg" width="50%">](https://youtu.be/CdHSwgq2lTE)[<img src="https://github.com/StarlangSoftware/TurkishSentiNet/blob/master/video2.jpg" width="50%">](https://youtu.be/_tbrvPlG87Y)[<img src="https://github.com/StarlangSoftware/TurkishSentiNet/blob/master/video3.jpg" width="50%">](https://youtu.be/CUbNz34Ac5c)
 
+For Developers
+============
+
+You can also see [Java](https://github.com/starlangsoftware/TurkishSentiNet), [Python](https://github.com/starlangsoftware/TurkishSentiNet-Py), [Cython](https://github.com/starlangsoftware/TurkishSentiNet-Cy), [Js](https://github.com/starlangsoftware/TurkishSentiNet-Js), [C#](https://github.com/starlangsoftware/TurkishSentiNet-CS), [Swift](https://github.com/starlangsoftware/TurkishSentiNet-Swift), or [C++](https://github.com/starlangsoftware/TurkishSentiNet-CPP) repository.
+
+## Requirements
+
+* [Php 8.4 or higher](#php)
+* [Git](#git)
+
+### Php 
+
+To check if you have a compatible version of Php installed, use the following command:
+
+    php -V
+    
+You can find the latest version of Php [here](https://www.php.net/downloads/).
+
+### Git
+
+Install the [latest version of Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
+## Download Code
+
+In order to work on code, create a fork from GitHub page. 
+Use Git for cloning the code to your local or below line for Ubuntu:
+
+	git clone <your-fork-git-link>
+
+A directory called SentiNet will be created. Or you can use below link for exploring the code:
+
+	git clone https://github.com/starlangsoftware/TurkishSentiNet-Php.git
+
+## Open project with PhpStorm IDE
+
+Steps for opening the cloned project:
+
+* Start IDE
+* Select **File | Open** from main menu
+* Choose `SentiNet-Php` file
+* Select open as project option
+* Couple of seconds, dependencies will be downloaded.
+  
 For Contibutors
 ============
 
